@@ -3,7 +3,7 @@
 <br/>
 <h4>View Project</h4>
 <hr>
-<p>Follow the link to view the project: http://dsbotta.github.io/feedreader-testing</p> <br/>
+<p>Follow the link to view the project:</p> <br/>
 <br/>
 <h4>Tests</h4> 
 <hr>
